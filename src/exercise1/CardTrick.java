@@ -63,6 +63,22 @@ public class Card {
     }
 
     private static void printInfo() {
+       System.out.println("Congratulations, you guessed right!");
+        System.out.println();
+
+        System.out.println("My name is [Your Name]");
+        System.out.println();
+
+        System.out.println("My career ambitions:");
+        System.out.println("-- Add your career ambitions here");
+        System.out.println();
+
+        System.out.println("My hobbies:");
+        System.out.println("-- Add your hobbies here");
+
+        System.out.println();
+    }
+}
 
        
 
